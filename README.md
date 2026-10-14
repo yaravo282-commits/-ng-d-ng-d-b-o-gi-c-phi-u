@@ -1,1 +1,1 @@
-# -ng-d-ng-d-b-o-gi-c-phi-u
+# Ứng dụng dự báo giá cổ phiếu
